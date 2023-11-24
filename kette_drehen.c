@@ -1,5 +1,5 @@
 #include <stdio.h>
-//test
+
 void reverse_str( char puffer [], int laenge);
 int my_strlen(char puffer []);
 
